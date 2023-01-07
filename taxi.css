@@ -1,0 +1,35 @@
+.content{
+    background-color: white
+    
+}
+body{
+    width: 960px;
+    vertical-align: middle;
+    border-left: double 10px gold;
+    border-right: double 10px gold;
+    background-color: goldenrod;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+.right{
+    float:right;
+    height: 300px;
+    width: auto;
+}
+.bio{
+    float: left;
+    width: 400px;
+    height: auto;
+    background-color: white;
+}
+a:visited{
+    color: yellow;
+
+}
+a:hover{
+    color: red;
+}
